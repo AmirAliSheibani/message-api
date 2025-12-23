@@ -8,3 +8,4 @@ env/
 *.pyc
 *.egg-info/
 .idea/
+*.idea/
