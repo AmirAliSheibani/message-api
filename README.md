@@ -131,3 +131,17 @@ myproject/
    ├─ urls.py
    └─ migrations/
 ```
+---
+
+## ScreenShots
+
+### فرستادن پیام (Post)
+
+<img width="1920" height="1080" alt="django_post" src="https://github.com/user-attachments/assets/6a0af4c0-b7ef-4ba3-a580-7b38e489953d" />
+
+### دریافت پیام ها (Get)
+
+<img width="1920" height="1080" alt="django_get" src="https://github.com/user-attachments/assets/15e10b1e-0b65-412c-b8a6-ad6c50fe0c32" />
+
+#
+
